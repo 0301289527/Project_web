@@ -14,7 +14,17 @@ Smart To-Do + Pomodoro Manager
 
 ## 2. Use Cases and User Flows
 
-Add something
+### Use Cases
+
+| Nombers  | Cases | Describe |
+|     :---:      |     :---:      |    :---:      |
+| UC1 | User Register/Login | Support email login |
+| UC2 | Create tasks | Enter the task name, set the priority, label, and deadline |
+| UC3 | Start Pomodoro | Set the focus time (25 minutes/changeable), and automatically record the task status after the timer is reached |
+| UC4 | Task accomplished | The user checks and completes, and the system records the timestamp |
+| UC5 | Task Statistics | Display charts such as daily/weekly completion numbers, focus time, Pomodoro rounds, etc. |
+| UC6 | Modify/Delete Task | Edit task name, deadline, tags, or delete the task |
+| UC7 | Email reminder | Send email reminders of unfinished to-dos or reminders of to-dos for the next day |
 
 ## 3. UI Prototypes
 
