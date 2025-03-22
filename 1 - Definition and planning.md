@@ -30,15 +30,15 @@ Smart To-Do + Pomodoro Manager
 
 #### Process 1: First time use / after logging in
 
-[Home page] → [Login/Register] → [Task page] → Create tasks → Start Pomodoro
+    [Home page] → [Login/Register] → [Task page] → Create tasks → Start Pomodoro
 
 #### Process 2: Create tasks + Start Pomodoro
 
-Click "New Task" → Fill in the information (name + tag + deadline) → The task card appears → Click "Start Focus" → Set the timer to 25 minutes (changeable) → A break reminder pops up → Check box to complete
+    Click "New Task" → Fill in the information (name + tag + deadline) → The task card appears → Click "Start Focus" → Set the timer to 25 minutes (changeable) → A break reminder pops up → Check box to complete
 
 #### Process 3: View Statistics
 
-Click "Statistics Page" → View chart → Switch time range (Daily / Weekly / Monthly / Yearly)
+    Click "Statistics Page" → View chart → Switch time range (Daily / Weekly / Monthly / Yearly)
 
 
 ## 3. UI Prototypes
