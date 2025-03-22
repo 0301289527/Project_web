@@ -2,7 +2,7 @@
 
 Add something
 
-## 1. User Personas.md1. User Personas
+## 1. User Personas
 
 Add something
 
