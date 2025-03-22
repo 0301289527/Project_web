@@ -26,13 +26,30 @@ Smart To-Do + Pomodoro Manager
 | UC6 | Modify/Delete Task | Edit task name, deadline, tags, or delete the task |
 | UC7 | Email reminder | Send email reminders of unfinished to-dos or reminders of to-dos for the next day |
 
+### User Flows
+
+#### Process 1: First time use / after logging in
+
+[Home page] → [Login/Register] → [Task page] → Create tasks → Start Pomodoro
+
+#### Process 2: Create tasks + Start Pomodoro
+
+Click "New Task" → Fill in the information (name + tag + deadline) → The task card appears → Click "Start Focus" → Set the timer to 25 minutes (changeable) → A break reminder pops up → Check to complete
+
+#### Process 3: View Statistics
+
+
+
+
 ## 3. UI Prototypes
 
 Add something
 
+
 ## 4. Information Architecture and Technical Design
 
 Add something
+
 
 ## 5. Project Management and User Testing
 
