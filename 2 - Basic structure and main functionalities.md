@@ -3,11 +3,21 @@
 
 ## 1. Environment
 
- Front-end development environment (React)
+- Front-end development environment (React)
+- Backend development environment (Node + Express)
+- Use CORS settings to allow the front-end to request the back-end interface
 
-## 2. Backend
+## 2. Backend (Node.js + Express)
 
-Add something
+### Example project structure
+/server
+  ├── models/
+  ├── routes/
+  ├── controllers/
+  ├── middlewares/
+  ├── utils/
+  └── server.js
+
 
 ## 3. Frontend
 
